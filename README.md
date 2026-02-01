@@ -16,14 +16,20 @@
   </a>
 </p>
 
+~ Visit my personal website/first coding project (so it's a little outdated) <p align="left">
+  <a href="https://sarakoka.replit.app">
+    <img width="70" height="70" src="https://github.com/user-attachments/assets/a0c00e50-be72-4bda-b650-0cdcc4118d3e" />
+  </a>
+</p>
+
+
 ```yaml
 Name: Sara;
 Age: teen;
 Located: US;
 
 Currently_Building: unreleased bracelet hardware project,
-new personal website,
-and boba olympics comp. by HackClub;
+new personal website, boba olympics comp. in HackClub;
 Outside_of_coding: Campfire Baltimore-
 -follow us on Instagram @campfire_baltimore to learn more about us!;
 ```
