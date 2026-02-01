@@ -1,5 +1,9 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?text=Hello! Im Sara Koka&type=venom&color=gradient&height=200&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!%20I%27m%20Sara%20Koka&type=venom&color=gradient&height=200&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default" />
 </p>
 
 # hello! I'm Sara Koka. Let's connect <3
