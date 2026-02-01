@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?text=Hello! I'm Sara Koka&type=venom&color=gradient&height=200&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello! Im Sara Koka&type=venom&color=gradient&height=200&animation=twinkling"/>
 </p>
 # hello! I'm Sara Koka. Let's connect <3
 (this profile is unfinished but feel free to look around!)
