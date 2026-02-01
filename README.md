@@ -1,4 +1,4 @@
-<p align="left">
+# <p align="left">
   <img src="https://capsule-render.vercel.app/api?text=Hello!%20I%27m%20Sara%20Koka%20&type=venom&color=auto&height=200&animation=twinkling"/>
 </p>
 
@@ -6,7 +6,6 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default" />
 </p>
 
-# hello! I'm Sara Koka. Let's connect <3
 
 (this profile is unfinished but feel free to look around!)
   
