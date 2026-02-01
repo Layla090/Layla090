@@ -16,6 +16,10 @@ Name: Sara;
 Age: teen;
 Located: US;
 
-Currently_Building: unreleased bracelet hardware project, new personal website, boba olympics comp. by HackClub;
-Outside_coding: Campfire Baltimore--follow us on Instagram @campfire_baltimore to learn more about us!;
+Currently_Building: unreleased bracelet hardware project,
+new personal website,
+and boba olympics comp. by HackClub;
+Outside_of_coding: Campfire Baltimore-
+-follow us on Instagram @campfire_baltimore
+to learn more about us!;
 ```
