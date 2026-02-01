@@ -9,4 +9,13 @@
 <a href="http://linkedin.com/in/sara-koka-b50825364">
   <img width="512" height="512" alt="linkedin_2585158" src="https://github.com/user-attachments/assets/eedb9a89-3905-411c-9176-b9d7104cf846" />
 </a>
+```yaml
+*
+Name: Sara;
+Age: teen;
+Located: US;
 
+Currently_Building: unreleased bracelet hardware project, new personal website, boba olympics comp. by HackClub;
+Outside_coding: Campfire Baltimore--follow us on Instagram @campfire_baltimore to learn more about us!;
+*
+```
