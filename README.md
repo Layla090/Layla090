@@ -1,3 +1,4 @@
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule_render&animation=twinkling&fontSize=90&type=venom"/>
 </p>
 # hello! I'm Sara Koka. Let's connect <3
