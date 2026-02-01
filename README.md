@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src=https://spotify-github-profile.kittinanx.com>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&b
 </p>
 
 ```yaml
