@@ -16,9 +16,10 @@
   </a>
 </p>
 
-~ Visit my personal website/first coding project (so it's a little outdated) <p align="left">
+~ Visit my personal website/first coding project (so it's a little outdated)
+- click on the lil buddy to see! :3 <p align="left">
   <a href="https://sarakoka.replit.app">
-    <img width="70" height="70" src="https://github.com/user-attachments/assets/a0c00e50-be72-4bda-b650-0cdcc4118d3e" />
+    <img width="80" height="180" src="https://github.com/user-attachments/assets/a0c00e50-be72-4bda-b650-0cdcc4118d3e" />
   </a>
 </p>
 
