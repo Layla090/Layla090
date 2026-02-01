@@ -6,9 +6,11 @@
 
 (this profile is unfinished but feel free to look around!)
   
-- Connect with me on LinkedIn below <a href="http://linkedin.com/in/sara-koka-b50825364">
-  <img width="40" height="40" alt="linkedin_2585158" src="https://github.com/user-attachments/assets/eedb9a89-3905-411c-9176-b9d7104cf846" />
-</a>
+- Connect with me on LinkedIn below <p align="left">
+  <a href="https://linkedin.com/in/sara-koka-b50825364">
+    <img src="https://github.com/user-attachments/assets/eedb9a89-3905-411c-9176-b9d7104cf846" width="40" />
+  </a>
+</p>
 
 <p align="center">
   <img src=https://spotify-github-profile.kittinanx.com>
